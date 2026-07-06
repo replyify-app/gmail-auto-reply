@@ -1,0 +1,26 @@
+{
+  "name": "replyify-app-gmail-auto-reply",
+  "version": "1.0.0",
+  "description": "Gmail Auto Reply sends automated, AI-powered replies to your Gmail trained on your company data",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "gmail-auto-reply",
+    "gmail",
+    "auto-reply",
+    "email-automation",
+    "ai",
+    "customer-service",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Replyify",
+  "license": "ISC",
+  "homepage": "https://replyify.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/replyify-app/gmail-auto-reply.git"
+  }
+}
